@@ -1,0 +1,2 @@
+# KoneVuokrausYkk-set_Telinelaskuri
+Alumiinitelinelaskuri yritykselle Konevuokrausykköset
